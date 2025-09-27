@@ -6,7 +6,7 @@
 
 <img align="right" width=200px alt="Unicorn" src="https://c.tenor.com/PLIr_VkF6ywAAAAC/tenor.gif"/>
 
-I am a **Computer Engineering** student currently in my 4th year of academic journey, focusing on both software and system development. My background includes experience in full-stack development projects, where I have worked on building dynamic applications and interactive platforms. These experiences have strengthened my problem-solving skills and allowed me to apply engineering concepts to real-world solutions.
+I am a **Computer Engineering** student currently in my 4th year of academic journey, focusing on both software and system development. My background includes experience in full-stack development projects, where I have worked on building dynamic applications and interactive platforms.
 - 📚 I’m currently learning ...
   - *Deep Learning*
   - *Cybsersecurity and Networking*
@@ -60,7 +60,7 @@ I am a **Computer Engineering** student currently in my 4th year of academic jou
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
-<img align="right" width=310px alt="Unicorn" src="https://media1.tenor.com/m/XwmLgqDr19YAAAAC/colin-ritman-bandersnatch.gif"/>
+<img align="right" width=310px alt="Unicorn" src="https://media.tenor.com/NnCPJJFJViMAAAAi/ernst-sebi-ernst.gif"/>
 
 ###### Deployment & Cloud Services:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
