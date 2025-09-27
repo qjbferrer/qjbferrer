@@ -1,10 +1,10 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://github.com/qjbferrer">AAL1X</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm </b><a href="https://github.com/qjbferrer">QJBFERRER</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+<img align="right" width=200px alt="Unicorn" src="https://c.tenor.com/PLIr_VkF6ywAAAAC/tenor.gif"/>
 
 I am a **Computer Engineering** student currently in my 4th year of academic journey, focusing on both software and system development. My background includes experience in full-stack development projects, where I have worked on building dynamic applications and interactive platforms. These experiences have strengthened my problem-solving skills and allowed me to apply engineering concepts to real-world solutions. I am committed to expanding my expertise in development while continuously exploring advanced technologies and innovative approaches.
 - 📚 I’m currently learning ...
