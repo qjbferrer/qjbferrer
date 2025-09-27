@@ -38,7 +38,7 @@ My background includes experience in full-stack development projects, where I ha
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-***My Portfolio***
+<img src = "https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width = 35>&nbsp;***My Portfolio***
 <p align="center">
   <a href="https://qjbferrer.github.io/" target="_blank">
     <img src="https://github.com/qjbferrer/qjbferrer.github.io/blob/main/website_images/home.png" width="80%" alt="Portfolio Preview"/>
