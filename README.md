@@ -6,7 +6,7 @@
 
 <img align="right" width=200px alt="Unicorn" src="https://c.tenor.com/PLIr_VkF6ywAAAAC/tenor.gif"/>
 
-I am a **Computer Engineering** student currently in my 4th year of academic journey, focusing on both software and system development. My background includes experience in full-stack development projects, where I have worked on building dynamic applications and interactive platforms. These experiences have strengthened my problem-solving skills and allowed me to apply engineering concepts to real-world solutions. I am committed to expanding my expertise in development while continuously exploring advanced technologies and innovative approaches.
+I am a **Computer Engineering** student currently in my 4th year of academic journey, focusing on both software and system development. My background includes experience in full-stack development projects, where I have worked on building dynamic applications and interactive platforms. These experiences have strengthened my problem-solving skills and allowed me to apply engineering concepts to real-world solutions.
 - 📚 I’m currently learning ...
   - *Deep Learning*
   - *Cybsersecurity and Networking*
