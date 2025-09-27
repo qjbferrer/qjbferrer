@@ -121,7 +121,7 @@ My background includes experience in full-stack development projects, where I ha
       <h3 align="center">OnionScan</h3>
       <div align="center">
         <a href="https://github.com/qjbferrer/OnionMap" target="_blank">
-          <img src="https://github.com/qjbferrer/OnionMap/blob/main/src/assets/logo1.png" width="500" style="object-fit: cover;" alt="OnionMap">
+          <img src="https://github.com/qjbferrer/qjbferrer/blob/main/onionscan.png" width="500" style="object-fit: cover;" alt="OnionMap">
         </a>
         <p>
           <a href="https://github.com/qjbferrer/OnionMap" target="_blank">
