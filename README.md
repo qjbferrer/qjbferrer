@@ -20,7 +20,7 @@ My background includes experience in full-stack development projects, where I ha
 <!-- Profile Trophies -->
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=ALX-13&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+        <img src="https://github-profile-trophy.vercel.app/?username=qjbferrer&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
     </a>
 </div>     
 
@@ -143,11 +143,11 @@ My background includes experience in full-stack development projects, where I ha
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ALX-13&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALX-13&theme=nightowl&hide_border=false" alt="ALX-13 streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=qjbferrer&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=qjbferrer&theme=nightowl&hide_border=false" alt="qjbferrer streak" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ALX-13&theme=nightowl&hide_border=false&langs_count=10"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=qjbferrer&theme=nightowl&hide_border=false&langs_count=10"/>
 </td>
 </tr>
 </table>
@@ -158,7 +158,7 @@ My background includes experience in full-stack development projects, where I ha
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://views-counter.vercel.app/badge?pageId=ALX-13%2FViews-Counter">
+    <img alt="visitors counter" src="https://views-counter.vercel.app/badge?pageId=qjbferrer%2FViews-Counter">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
 <br>
